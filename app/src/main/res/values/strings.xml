@@ -1,0 +1,11 @@
+
+
+<resources>
+    <string name="app_name">Picker For Time</string>
+
+    <string name="hello_world">Tentukan Waktu:</string>
+    <string name="time_button">Time</string>
+    <string name="time_toast">Time</string>
+    <string name="timepicker">timePicker</string>
+    <string name="tentukan_waktu">Tentukan Waktu</string>
+</resources>
